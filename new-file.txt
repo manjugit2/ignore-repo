@@ -1,0 +1,3 @@
+This file should get ignore by git
+
+GIHGJKLHJKLJKML: adding another line, after making this to be ignore 2nd time
